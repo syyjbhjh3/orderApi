@@ -1,7 +1,5 @@
 ## 주문처리 API
 
-지원자 박영준
-
 사용기술 : Java 11, Spring Boot 3.6.7, JPA, H2, Swagger 3.0
 
 Swagger Url = http://localhost:8080/swagger-ui/index.html
